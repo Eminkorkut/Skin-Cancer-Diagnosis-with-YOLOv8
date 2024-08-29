@@ -20,8 +20,10 @@
 
 ## App Images & How to Use it
 > After the program runs, you enter your 11 digit number where it says “Please enter your Turkish ID number with 11 digits.” Select the new patient or old patient option and select the image to be examined
-> > [!WARNING]
+
+> [!WARNING]
 > “Old Patient” entry only works for numbers that have already been logged.
+
 > ![Alt text](https://github.com/Eminkorkut/Skin-Cancer-Diagnosis-with-YOLOv8-/blob/main/files/ss1.png)
 
 
