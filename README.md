@@ -24,10 +24,22 @@
 
 
 ## App Images & How to Use it
+
+Apply in order:
+```
+pip install -r requirements.txt
+
+python3 main.py
+```
+
 > After the program runs, you enter your 11 digit number where it says “Please enter your Turkish ID number with 11 digits.” Select the new patient or old patient option and select the image to be examined
+
 
 > [!WARNING]
 > “Old Patient” entry only works for numbers that have already been logged.
+>
+>
+> Delays may occur depending on the processing power of your computer
 
 > ![Alt text](https://github.com/Eminkorkut/Skin-Cancer-Diagnosis-with-YOLOv8-/blob/main/files/ss1.png)
 
@@ -39,3 +51,8 @@
 ![Alt text](https://github.com/Eminkorkut/Skin-Cancer-Diagnosis-with-YOLOv8-/blob/main/files/basal_results.png)
 ### Dermatofibroma
 ![Alt text](https://github.com/Eminkorkut/Skin-Cancer-Diagnosis-with-YOLOv8-/blob/main/files/dermatofibroma_results.png)
+
+###
+
+> [!WARNING]
+> I own the rights to the project.
